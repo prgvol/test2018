@@ -7,7 +7,16 @@ Start docker :  docker run -d -it -p 1880:1880  prgvol/test2018
 
 Address : http://127.0.0.1:1880
           http://"your ip":1880  
-          
+
+User :    admin
+Password: 12345678
+
+
 UI:       http://127.0.0.1:1880/ui/#/0
+
+
+
+
+
 
 
